@@ -1,2 +1,2 @@
 # Audio-Recorder
-Supported for jellybean versions
+Supported for jellybean and KitKat versions
