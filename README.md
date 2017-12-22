@@ -1,2 +1,2 @@
 # Audio-Recorder
-Supported for jellybean and KitKat versions
+Supported for lollipop, KitKat and jellybean versions of Android
